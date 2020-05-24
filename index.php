@@ -1,32 +1,4 @@
 
-
-
-Skip to content
-Using Gmail with screen readers
-Meet
-New
-Start a meeting
-Join a meeting
-Chat
-
-1 of 1,134
-finalised
-Inbox
-x
-
-SOWMIYA B
-Attachments
-10:49 AM (1 minute ago)
-to me
-
-
-Attachments area
-
-<?php 
-session_start();
-include('config.php');
-error_reporting(0);
-
 ?>
 <html lang="en">
    <head>
